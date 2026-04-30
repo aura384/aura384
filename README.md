@@ -17,6 +17,6 @@ my idea of a fun friday night is reading arxiv papers and crying a little.
 
 <i>somewhere between a research paper and a half-finished side project</i>
 
-<img src="https://raw.githubusercontent.com/aura384/aura384/main/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/aura384/aura384/output/dist/github-contribution-grid-snake.gif" />
 
 </div>

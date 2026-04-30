@@ -5,7 +5,7 @@
 
 <i>i learn for fun and build for the adrenaline.</i>
 
-<img src="https://media.tenor.com/AxMhL1sp7BcAAAAi/cute-hello-kitty.gif" width="90"/><img src="https://media.tenor.com/AxMhL1sp7BcAAAAi/cute-hello-kitty.gif" width="90"/><img src="https://media.tenor.com/AxMhL1sp7BcAAAAi/cute-hello-kitty.gif" width="90"/>
+<img src="https://media.tenor.com/AxMhL1sp7BcAAAAi/cute-hello-kitty.gif" width="50"/><img src="https://media.tenor.com/AxMhL1sp7BcAAAAi/cute-hello-kitty.gif" width="50"/><img src="https://media.tenor.com/AxMhL1sp7BcAAAAi/cute-hello-kitty.gif" width="50"/>
 
 currently in a situationship with quantum computing <b>and</b> developing apps
 

@@ -19,6 +19,5 @@ my idea of a fun friday night is reading arxiv papers and crying a little.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aura384&bg_color=0d0d0d&color=ff8fab&line=ff4d79&point=ffd6e0&area=true&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=aura384&theme=default&hide_border=true&background=fff0f5&ring=ffb6c1&fire=ffc1cc&currStreakLabel=ff8fab&sideLabels=ff8fab&dates=ffb6c1" />
-
+<img src="https://streak-stats.demolab.com?user=aura384&theme=default&hide_border=true&background=0d0d0d&ring=ff4d79&fire=ff8fab&currStreakLabel=ff8fab&sideLabels=ff8fab&dates=ffd6e0" />
 </div>

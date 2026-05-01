@@ -21,4 +21,6 @@ my idea of a fun friday night is reading arxiv papers and crying a little.
 
 <img src="https://streak-stats.demolab.com?user=aura384&theme=default&hide_border=true&background=0d0d0d&ring=ff4d79&fire=ff8fab&currStreakLabel=ff8fab&sideLabels=ff8fab&dates=ffd6e0&currStreakNum=ffffff&sideNums=ffd6e0" />
 
+<img src="https://streak-stats.demolab.com?user=aura384&theme=default&hide_border=true&background=0d0d0d&ring=ff4d79&fire=ff8fab&currStreakLabel=ff8fab&sideLabels=ff8fab&dates=ffd6e0&currStreakNum=ffffff&sideNums=ffffff" />
+
 </div>

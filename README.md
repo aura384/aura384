@@ -19,4 +19,6 @@ my idea of a fun friday night is reading arxiv papers and crying a little.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aura384&bg_color=0d0d0d&color=ff8fab&line=ff4d79&point=ffd6e0&area=true&hide_border=true" />
 
+<img src="https://readme-typing-svg.herokuapp.com?color=FF8FAB&center=true&vCenter=true&width=400&lines=currently+existing+in+IST;time+is+an+illusion;late+night+debugging+hours" />
+
 </div>
